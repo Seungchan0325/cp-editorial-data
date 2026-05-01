@@ -1,4 +1,4 @@
-# Editorial Data Repository for Competitive Programming Contests
+# Editorial Data for Competitive Programming Contests
 
 <p align="center">
   <img src="./Logo.png" alt="cp-editorial" width="400">
