@@ -1,4 +1,8 @@
-# cp-editorials
+# Editorial Data Repository for Competitive Programming Contests
+
+<p align="center">
+  <img src="./Logo.png" alt="cp-editorial" width="400">
+</p>
 
 [![Repository](https://img.shields.io/badge/repository-cp--editorial--data-181717?logo=github)](https://github.com/utilForever/cp-editorial-data)
 [![Trigger Frontend Deploy](https://github.com/utilForever/cp-editorial-data/actions/workflows/trigger.yml/badge.svg)](https://github.com/utilForever/cp-editorial-data/actions/workflows/trigger.yml)
